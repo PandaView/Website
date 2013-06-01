@@ -14,7 +14,7 @@ Week 22, 2013 : Set up repository and basic elements
 Week 23, 2013 : Create basic website structure
 Week 24, 2013 : Create global color scheme and CSS structure
 Week 25, 2013 : Continue CSS development
-Week 26, 2013 : Continue CSS development	//Why so much CSS? Because this isn't your average stylesheet, these do animation...maybe
+Week 26, 2013 : Continue CSS development	
 Week 27, 2013 : Create sub-pages
 Week 27, 2013 : Continue CSS development
 
