@@ -10,9 +10,9 @@ This website is pushed to a server hosted using Windows Azure from a Github repo
 Tasks are as follows :
 (note, index sounds stupid, I refer to that page as the splash page)
 
-<del> Week 22, 2013 : Set up repository and basic elements </del>
-Week 23, 2013 : Create basic website structure
-Week 24, 2013 : Create global color scheme and CSS structure
+Week 22, 2013 : Set up repository and basic elements 			(Completed)
+Week 23, 2013 : Create basic website structure				(Completed)
+Week 24, 2013 : Create global color scheme and CSS structure		(In Progress)
 Week 25, 2013 : Continue CSS development
 Week 26, 2013 : Continue CSS development	
 Week 27, 2013 : Create sub-pages
